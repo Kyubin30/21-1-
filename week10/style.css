@@ -1,0 +1,28 @@
+*{
+    margin: 0 auto;
+    text-align: center;
+}
+.wrap{
+    width: 600px;
+}
+.video, .audio{
+    display: block;
+    margin-top: 10px;
+}
+form{
+    width: 300px;
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px black solid;
+    border-radius: 2px;
+}
+input{
+    text-align: left;
+}
+select{
+    display: block;
+    margin-top: 10px;
+}
+footer{
+    margin-top: 10px;
+}
